@@ -30,7 +30,7 @@ python app.py
 
 ## 📷 Project Demo
 
-![Project Screenshot](screenshots/detection_demo.png)
+The project demonstration files are available inside the **`demo_screenshot`** folder.
 
 ## 🎥 Output
 
