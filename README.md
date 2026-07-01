@@ -1,4 +1,4 @@
-# Object Detection and Tracking using YOLOv8
+# Object Detection and Tracking
 
 ## 📌 Description
 This project detects and tracks objects in a video using the YOLOv8 model and OpenCV.
@@ -30,7 +30,7 @@ python app.py
 
 ## 📷 Project Demo
 
-(Add screenshot here)
+![Project Screenshot](screenshots/detection_demo.png)
 
 ## 🎥 Output
 
